@@ -16,6 +16,9 @@
   
  <img align="center" alt="Biel-JS" height="40" width="70"    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg">
   
+ <img align="center" alt="Biel-React" height="40" width="70"    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  
+  
  <img align="center" alt="Biel-PHP" height="40" width="70"    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg">
   
   <img align="center" alt="biel-Laravel" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain-wordmark.svg">
