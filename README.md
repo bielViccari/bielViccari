@@ -1,4 +1,4 @@
-### Olá, sou Gabriel Viccari de Almeida !
+### Hi, i'm Gabriel Viccari de Almeida !
 
 <div align="center">
   <a href="https://github.com/bielViccari">
