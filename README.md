@@ -19,19 +19,20 @@
  <img align="center" alt="Biel-React" height="40" width="70"    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   
  <img align="center" alt="Biel-PHP" height="40" width="70"    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg">
+
+ <img align="center" alt="Biel-JAVA" height="40" width="70"    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   
   <img align="center" alt="biel-Laravel" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain-wordmark.svg">
   
  <img align="center" alt="Biel-mySQL" height="40" width="70"    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg">
 
- <img align="center" alt="Biel-docker" height="40" width="70"    src="https://github.com/vorillaz/devicons/blob/master/!SVG/docker.svg">
-  
+ <img align="center" alt="Biel-GIT" height="40" width="70"    src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
+
 </div>
   
   ##
    <a href="https://api.whatsapp.com/send?phone=5518981469767&text=Deixe%20sua%20mensagem%2C%20te%20respondo%20em%20breve%20!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="mailto:gabriel.viccari20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gabriel_viccarii/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-viccari-de-almeida-7a208b229/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
   
