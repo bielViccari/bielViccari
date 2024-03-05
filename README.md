@@ -23,20 +23,23 @@
   
  <img align="center" alt="Biel-PHP" height="40" width="70"    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg">
 
- <img align="center" alt="Biel-JAVA" height="40" width="70"    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  
   <img align="center" alt="biel-Laravel" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain-wordmark.svg">
   
  <img align="center" alt="Biel-mySQL" height="40" width="70"    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg">
 
+ <img align="center" alt="Biel-JAVA" height="40" width="70"    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  
+<img align="center" alt="Biel-Spring" height="40" width="70"    src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+
+<img align="center" alt="Biel-Spring" height="40" width="70"    src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg">
+
+
+<img align="center" alt="Biel-Postman" height="40" width="70"    src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
+
+<img align="center" alt="Biel-Docker" height="40" width="70"    src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+
  <img align="center" alt="Biel-GIT" height="40" width="70"    src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
 
- <img align="center" alt="Biel-Docker" height="40" width="70"    src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-
-<img align="center" alt="Biel-Spring" height="40" width="70"    src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
- 
-
- 
 </div>
   
   ##
