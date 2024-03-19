@@ -33,7 +33,6 @@
 
 <img align="center" alt="Biel-Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 <br/>
-<br/>
 <img align="center" alt="Biel-GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
